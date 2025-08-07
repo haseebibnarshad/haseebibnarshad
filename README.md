@@ -94,8 +94,8 @@ I set up clean and Linux-style dev environments on Windows using **Laragon**, an
 
 ## Contact
 
-- **Email:** haseebibnarshad@gmail.com  
-- **Discord:** [haseebibnarshad](https://discord.com/users/1237277307857797144) (UserID: 1237277307857797144)
+- **Email:** [haseebibnarshad@gmail.com](mailto:haseebibnarshad@gmail.com)  
+- **Discord:** [haseebibnarshad](https://discord.com/users/1237277307857797144){:target="_blank"}
 
 ---
 
